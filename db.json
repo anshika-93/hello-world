@@ -1,0 +1,20 @@
+{
+ "data" :{
+  "created": "2019-01-31T06:15:19.000434Z",
+  "id": "NA",
+  "name": "aaaa",
+  "org_id": "00000000-0000-0000-0000-000000000000",
+  "provider": "wwww",
+  "resource_config": {
+    "nsxt": true,
+    "region": "US_EAST_7",
+    "sddc_id": "00000000-0000-0000-0000-000000000000"
+  },
+  "updated": "2019-02-01T01:05:10.000000Z",
+  "updated_by_user_id": "NA",
+  "updated_by_user_name": "aaaa@aaaa.com",
+  "user_id": "NA",
+  "user_name": "aaaa@aaaa.com",
+  "version": 47
+}
+}
